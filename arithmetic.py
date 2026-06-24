@@ -1,0 +1,16 @@
+x=int(input("enter first number:"))
+y=int(input("enter second number:"))
+c=x+y
+print("sum=",c)
+c=x-y
+print("difference=",c)
+c=x*y
+print("product=",c)
+c=x%y
+print("remainder=",c)
+c=x/y
+print("quotient=",c)
+c=x**y
+print("exponent=",c)
+c=x//y
+print("integer division=",c)
